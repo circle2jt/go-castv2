@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/controllers"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/controllers"
+	"github.com/hbbio/go-castv2/primitives"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/hashicorp/mdns"
 )

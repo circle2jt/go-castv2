@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/api"
-	"github.com/AndreasAbdi/go-castv2/controllers/receiver"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/api"
+	"github.com/hbbio/go-castv2/controllers/receiver"
+	"github.com/hbbio/go-castv2/primitives"
 )
 
 //ReceiverController is a chromecast controller for the receiver namespace. This involves

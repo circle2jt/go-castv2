@@ -1,6 +1,6 @@
 package media
 
-import "github.com/AndreasAbdi/go-castv2/primitives"
+import "github.com/hbbio/go-castv2/primitives"
 
 type MediaCommand struct {
 	primitives.PayloadHeaders

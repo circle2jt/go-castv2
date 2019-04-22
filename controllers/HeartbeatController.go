@@ -3,8 +3,8 @@ package controllers
 import (
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/api"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/api"
+	"github.com/hbbio/go-castv2/primitives"
 )
 
 //Sends pings and wait for pongs - https://github.com/thibauts/node-castv2-client/blob/master/lib/controllers/heartbeat.js

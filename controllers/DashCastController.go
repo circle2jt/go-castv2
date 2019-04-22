@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/controllers/dashcast"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/controllers/dashcast"
+	"github.com/hbbio/go-castv2/primitives"
 )
 
 /*

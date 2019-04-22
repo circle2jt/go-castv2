@@ -6,10 +6,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/controllers/youtube"
+	"github.com/hbbio/go-castv2/controllers/youtube"
 
-	"github.com/AndreasAbdi/go-castv2/api"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/api"
+	"github.com/hbbio/go-castv2/primitives"
 )
 
 /*

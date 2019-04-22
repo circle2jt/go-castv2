@@ -4,11 +4,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/configs"
-	"github.com/AndreasAbdi/go-castv2/controllers"
-	"github.com/AndreasAbdi/go-castv2/controllers/media"
-	"github.com/AndreasAbdi/go-castv2/controllers/receiver"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/configs"
+	"github.com/hbbio/go-castv2/controllers"
+	"github.com/hbbio/go-castv2/controllers/media"
+	"github.com/hbbio/go-castv2/controllers/receiver"
+	"github.com/hbbio/go-castv2/primitives"
 )
 
 const defaultTimeout = time.Second * 10

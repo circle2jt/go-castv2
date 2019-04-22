@@ -4,10 +4,10 @@ import (
 	"errors"
 	"time"
 
-	"github.com/AndreasAbdi/go-castv2/controllers/receiver"
+	"github.com/hbbio/go-castv2/controllers/receiver"
 
-	"github.com/AndreasAbdi/go-castv2/api"
-	"github.com/AndreasAbdi/go-castv2/primitives"
+	"github.com/hbbio/go-castv2/api"
+	"github.com/hbbio/go-castv2/primitives"
 )
 
 type listener struct {
