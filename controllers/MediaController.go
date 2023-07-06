@@ -186,7 +186,7 @@ func (c *MediaController) constructMediaData(url string, contentTypeString strin
 	if err != nil {
 		return nil, err
 	}
-	builder, err := media.NewGenericMediaDataBuilder(contentID, contentType, media.NoneStreamType)
+	builder, err := media.NewGenericMediaDataBuilder(contentID, contentType, media.BufferedStreamType)
 	if err != nil {
 		return nil, err
 	}
