@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hbbio/go-castv2/controllers"
-	"github.com/hbbio/go-castv2/primitives"
+	"github.com/circle2jt/go-castv2/controllers"
+	"github.com/circle2jt/go-castv2/primitives"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/hashicorp/mdns"
 )

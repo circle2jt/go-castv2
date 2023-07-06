@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/hbbio/go-castv2/api"
+	"github.com/circle2jt/go-castv2/api"
 	"github.com/gogo/protobuf/proto"
 )
 

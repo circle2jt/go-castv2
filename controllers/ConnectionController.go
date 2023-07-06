@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/hbbio/go-castv2/primitives"
+	"github.com/circle2jt/go-castv2/primitives"
 )
 
 //ConnectionController is for basic connect and close caommands connection to a chromecast

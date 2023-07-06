@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/hbbio/go-castv2/generic"
+	"github.com/circle2jt/go-castv2/generic"
 	"github.com/imroc/req"
 )
 

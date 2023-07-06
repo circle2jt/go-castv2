@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hbbio/go-castv2/api"
-	"github.com/hbbio/go-castv2/generic"
+	"github.com/circle2jt/go-castv2/api"
+	"github.com/circle2jt/go-castv2/generic"
 )
 
 //Channel is an abstraction over a chromecast channel.

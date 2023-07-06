@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	castv2 "github.com/hbbio/go-castv2"
-	"github.com/hbbio/go-castv2/configs"
+	castv2 "github.com/circle2jt/go-castv2"
+	"github.com/circle2jt/go-castv2/configs"
 )
 
 // A simple example, showing how to control youtube videos.

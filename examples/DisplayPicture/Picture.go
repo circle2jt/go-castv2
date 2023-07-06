@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/hbbio/go-castv2"
+	"github.com/circle2jt/go-castv2"
 )
 
 // A simple example, showing how to create a device and use it.

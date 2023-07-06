@@ -1,6 +1,6 @@
 package receiver
 
-import "github.com/hbbio/go-castv2/primitives"
+import "github.com/circle2jt/go-castv2/primitives"
 
 //TODO: figure out which one of these we need to be public. receiverstatus and application session definitely.
 

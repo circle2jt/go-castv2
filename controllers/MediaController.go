@@ -8,9 +8,9 @@ import (
 
 	"github.com/imdario/mergo"
 
-	"github.com/hbbio/go-castv2/api"
-	"github.com/hbbio/go-castv2/controllers/media"
-	"github.com/hbbio/go-castv2/primitives"
+	"github.com/circle2jt/go-castv2/api"
+	"github.com/circle2jt/go-castv2/controllers/media"
+	"github.com/circle2jt/go-castv2/primitives"
 )
 
 /*
