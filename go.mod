@@ -1,4 +1,4 @@
-module github.com/hbbio/go-castv2
+module github.com/circle2jt/go-castv2
 
 go 1.12
 
