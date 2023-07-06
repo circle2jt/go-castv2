@@ -10,4 +10,5 @@ require (
 	github.com/hashicorp/mdns v1.0.1
 	github.com/imdario/mergo v0.3.7
 	github.com/imroc/req v0.2.3
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
